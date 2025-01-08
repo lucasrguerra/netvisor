@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+        "name": "netvisor",
+        "script": "main.py",
+        "interpreter": "python3"
+        }
+    ]
+}
